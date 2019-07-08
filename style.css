@@ -1,0 +1,41 @@
+#portrait {
+    margin: auto;
+}
+h1 {
+    margin-bottom: 20px;    
+}
+h2 {
+    font-size: 1.5em;
+    margin-bottom: 40px;
+}
+p {
+    margin-top:10px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+#booklist {
+  margin-left: 40px;
+}
+body {
+    background-color: #193366; 
+ }
+.well {
+  margin-top: 60px;
+  background-color: #ffffb;
+} 
+#caption {
+  margin-bottom: 30px;
+}
+.hrstyle {
+  color: #57b1dc;
+  background-color: #57b1dc;
+  height: 1px;
+  width: 80%;
+  border-width:0;
+}
+small {
+  color: #57b1dc;
+}
+.indent{
+  text-indent: 50px;
+}
